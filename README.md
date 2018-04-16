@@ -1,2 +1,2 @@
 # hello-world
-Few details
+Few details of the program
